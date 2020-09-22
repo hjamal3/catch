@@ -6,7 +6,7 @@ Design: There's a scary thruster that launches balls and you have to catch them.
 
 Screen Shot:
 
-![Screen Shot](screenshot.png)
+![Screen Shot](screenshot.PNG)
 
 How To Play:
 
